@@ -25,7 +25,7 @@ A Java Desktop Application that registers blood donors and makes it easier for h
 1. Import/Open the forked repository
 1. Test it by running the project
 
-##OR
+OR
 
 1. Directly click (https://github.com/nabiloo19/Kezara-JavaProject/archive/master.zip) which will download the file as a .zip extension
 1. Import it to your favourite IDE
